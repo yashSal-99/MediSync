@@ -1,0 +1,16 @@
+Patient Condition:
+The patient is experiencing cold, cough, and fever.
+
+Medicines Prescribed:
+1. Ibuprofen - 650mg - not specified - not specified
+2. Dolo - 650mg - not specified - not specified
+3. Dolo - 500mg - not specified - not specified
+4. Crocin - dosage not specified - not specified - not specified
+5. Crocin - 650mg - not specified - not specified
+6. Relief Spray (Patanjali brand) - apply - not specified - not specified
+
+Doctor Advice:
+*   Take some rest.
+*   Take water.
+*   It's okay to eat chicken.
+*   It's okay to eat mutton.

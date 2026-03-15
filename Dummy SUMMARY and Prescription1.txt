@@ -1,0 +1,33 @@
+PATIENT CONSULTATION SUMMARY
+Date: 2026-03-14
+Patient Name: Arjun Sharma
+Age: 45 | Gender: Male
+
+CHIEF COMPLAINT:
+Patient reports persistent lower back pain and occasional dizziness over the last two weeks.
+
+DIAGNOSIS:
+1. Lumbar Spondylosis
+2. Mild Hypertension
+
+CLINICAL NOTES:
+Arjun is experiencing radiating pain in the lower extremities. Vital signs show BP 145/95 mmHg. 
+Advised physical therapy and weight management. Follow-up in 3 weeks.
+
+SPECIALIST:
+Dr. Sarah Jenkins (Orthopedics)
+
+CITY GENERAL HOSPITAL
+Dr. Sarah Jenkins | Reg No: 12345-SJ
+
+Patient: Arjun Sharma
+Date: 14/03/2026
+
+Rx:
+1. Naproxen 500mg - Twice a day (After food) - 10 days
+2. Amlodipine 5mg - Once a day (Morning) - 30 days
+3. Pantoprazole 40mg - Once a day (Empty stomach) - 10 days
+
+Notes: Avoid heavy lifting.
+[Signed: S. Jenkins]
+
