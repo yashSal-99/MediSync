@@ -2,7 +2,7 @@ from openai import OpenAI
 
 # OpenRouter Configuration
 # Get your key from https://openrouter.ai/keys
-API_KEY = "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"
+API_KEY = ""
 BASE_URL = "https://openrouter.ai/api/v1"
 
 # Choose your model (e.g., Gemini 2.0 Flash via OpenRouter)
