@@ -17,7 +17,7 @@ class InteractionReport(BaseModel):
 
 # 2. Initialize the Gemini Client
 # Replace with your actual API Key
-client = genai.Client(api_key="AIzaSyAngY2xQccSzDo_1J2gMv4cs9OxP4TxlEs")
+client = genai.Client(api_key="")
 
 def run_interaction_engine(extracted_data_json: str):
     """
