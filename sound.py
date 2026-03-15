@@ -25,7 +25,7 @@ wav.write(filename, samplerate, audio)
 
 print("Recording saved and overwritten:", filename)
 
-client = genai.Client(api_key="AIzaSyCPPC3h5Ujh6AFD6Flc4oN-SvVZwBWuEk0")
+client = genai.Client(api_key="")
 
 audio_file = client.files.upload(
     file="doctor_patient_conversation.wav"
