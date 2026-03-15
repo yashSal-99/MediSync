@@ -24,7 +24,7 @@ class HealthExtraction(BaseModel):
 # ==========================================
 # 2. CORE LOGIC
 # ==========================================
-API_KEY = "AIzaSyDk7JJ3ggQsf4RnrHjNXcnfCOxmfPV5zEU"
+API_KEY = ""
 client = genai.Client(api_key=API_KEY)
 
 def extract_medical_data(folder_path: str):
